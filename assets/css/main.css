@@ -2386,6 +2386,7 @@ input, select, textarea {
 			position: relative;
 			vertical-align: top;
 			width: 33%;
+			text-align: center;
 		}
 
 			ul.feature-icons li:before {
@@ -2674,6 +2675,7 @@ input, select, textarea {
 				display: block;
 				width: 100%;
 				height: 200px;
+				width: 300px;
 			}
 
 		.features article .inner {
